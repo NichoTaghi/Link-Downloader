@@ -1,6 +1,6 @@
 # Downloaded list :
 
-- [QzlW2P](./QzlW2P)
+- [AvaAri](./AvaAri)
 - [archive_20260509_160742](./archive_20260509_160742)
 
 ---
